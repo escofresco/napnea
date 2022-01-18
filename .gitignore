@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Big data
+/files
+
+# Tiny data
+.DS_Store
